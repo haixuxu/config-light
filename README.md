@@ -1,5 +1,9 @@
 ## config-light
 
+---
+[![NPM version](http://img.shields.io/npm/v/config-light.svg?style=flat)](https://npmjs.org/package/config-light)
+[![Build Status](http://img.shields.io/travis/xuxihai123/config-light/master.svg?style=flat)](http://travis-ci.org/xuxihai123/config-light)
+
 A super simple & flexible & intuitive config module, support `yaml` & `toml`.
 
 ### Install

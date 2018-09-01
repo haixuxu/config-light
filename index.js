@@ -50,6 +50,6 @@ function loadConfigFile(filename, opt) {
     }
   } catch (err) {
     console.error(chalk.red('config-lite load ' + filename + ' failed.'));
-    console.error(chalk.red(e.stack));
+    console.error(chalk.red(err.stack));
   }
 }
